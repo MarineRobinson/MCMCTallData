@@ -1,4 +1,4 @@
-# On Markov Chain Monte Carlo methods for tall data
+# Experiments based on Markov Chain Monte Carlo methods for tall data
 ### Matthieu Sommervogel and Marine Robinson
 
 This is our experiments for the paper On Markov Chain Monte Carlo methods for tall data from R. Bardenet, A. Doucet and C. Holmes. The papier is available at https://arxiv.org/abs/1505.02827
